@@ -7,7 +7,7 @@
 
 *I build systems that work in the real world — not just in demos.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sravanipala.dev-b45309?style=flat-square&logoColor=white)](https://sravanipala.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sravanipala.dev-b45309?style=flat-square&logoColor=white)](https://sravani-pala-433.github.io/my-portfolio/index.html)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sravani-pala/)
 [![Email](https://img.shields.io/badge/Email-Say%20hello-3d6b5e?style=flat-square&logo=gmail&logoColor=white)](mailto:sravanipala433@gmail.com)
 
