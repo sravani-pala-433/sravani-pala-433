@@ -5,7 +5,7 @@
 
 **Backend Engineer → GenAI** &nbsp;·&nbsp; Visakhapatnam, Andhra Pradesh, India
 
-*I build systems that work in the real world — not just in demos.*
+*Shipping code,chasing curiosity.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sravanipala.dev-b45309?style=flat-square&logoColor=white)](https://sravani-pala-433.github.io/my-portfolio/index.html)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sravani-pala/)
@@ -23,9 +23,9 @@ Let me give you a quick tour of who I am and what you'll find here.
 
 ### 01 · Who I am
 
-I'm a backend engineer with **1.5+ years** of production experience — building APIs, designing databases, and shipping LLM-powered systems. My stack is Python and FastAPI, my database of choice is PostgreSQL, and I've been putting LLMs to work inside real financial software since before it was trendy.
+I'm a backend engineer with **1.5+ years** of production experience — building APIs, designing databases, and shipping LLM-powered systems. My stack is Python and FastAPI, my database of choice is PostgreSQL.
 
-Right now I'm at an interesting crossroads: I know how to build the *infrastructure* around AI, and I'm deliberately learning the *model layer* to connect the two. The goal is to go from *"engineer who integrates AI"* to *"engineer who understands and shapes it."*
+The goal is to go from *"engineer who integrates AI"* to *"engineer who understands and shapes it."*
 
 ---
 
