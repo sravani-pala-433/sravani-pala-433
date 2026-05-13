@@ -34,7 +34,7 @@ The goal is to go from *"engineer who integrates AI"* to *"engineer who understa
 I can't share the code — it lives inside my organisation — but here's what I actually built:
 
 **📊 Financial Data Management Platform**
-A system that consolidates banking, investment, and loan data into one unified model. The interesting part: I built an LLM pipeline that categorised **1,200+ transactions** reliably using batch processing and careful prompt engineering.
+An AI-driven financial platform that aggregates financial data from sources like bank statements and user-declared assets, processes it into structured formats, and generates insights such as spending analysis, cashflow forecasting, net worth tracking, and financial risk indicators. The goal is to move from simple financial tracking to a system that helps users and advisors make better financial decisions through automation and AI-driven insights.
 
 **💬 AI-Powered Chat System**
 Real-time chat with multi-modal inputs (text, image, voice), multilingual support, and conversation summarisation over WebSockets. The challenge was making LLM responses feel fast and coherent across languages.
