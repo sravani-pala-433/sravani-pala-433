@@ -23,7 +23,7 @@ Let me give you a quick tour of who I am and what you'll find here.
 
 ### 01 · Who I am
 
-I'm a backend engineer with **1.5+ years** of production experience — building APIs, designing databases, and shipping LLM-powered systems. My stack is Python and FastAPI, my database of choice is PostgreSQL.
+I'm a backend engineer with **1.5+ years** of experience in building APIs, designing databases, and shipping LLM-powered systems. My stack is Python and FastAPI, my database of choice is PostgreSQL.
 
 The goal is to go from *"engineer who integrates AI"* to *"engineer who understands and shapes it."*
 
@@ -42,8 +42,6 @@ Real-time chat with multi-modal inputs (text, image, voice), multilingual suppor
 **🔍 Text Embedding & Semantic Analysis Tool**
 A clustering pipeline using sentence transformers, PCA, and cosine similarity to group large text datasets and surface patterns. Built for cross-lingual matching — it works across languages without translation.
 
-> *No repos for these yet — but I've written up what I learned. See the [case studies](#) below.*
-
 ---
 
 ### 03 · What I'm building now
@@ -52,7 +50,7 @@ A clustering pipeline using sentence transformers, PCA, and cosine similarity to
 <tr>
 <td width="60%">
 
-**Opportiq** — my first solo product
+**Opportiq**
 
 A platform for developers and career switchers who have skills but no verifiable track record to show for it. The idea: join structured team projects, contribute to real work, and build a proof-of-work profile that actually means something to a recruiter.
 
