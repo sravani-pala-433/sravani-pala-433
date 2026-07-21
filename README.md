@@ -109,7 +109,7 @@ next_up = ["vector databases", "fine-tuning workflows", "MLOps basics"]
 
 ### 06 · What I'm looking for
 
-I'm open to **ML Engineer** and **GenAI roles at startups** — places where the AI layer is core to the product, not an afterthought. I want to be on a small team that ships fast and thinks carefully.
+I'm open to **ML Engineer** and **GenAI roles at startups** , places where the AI layer is core to the product, not an afterthought. I want to be on a small team that ships fast and thinks carefully.
 
 If that sounds like your team, let's talk.
 
